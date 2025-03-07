@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @khin-mon
-- 👀 I’m interested in business intelligence
-- 🌱 I’m currently learning how to export microsoft defender for cloud data
-- 💞️ I’m looking to collaborate on anything interesting 
 - 📫 How to reach me https://www.linkedin.com/in/khinmyatmon
 
 <!---
