@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title> Khin Myat Mon - IT Portfolio </title>
+    <h1> Khin Myat Mon - IT Portfolio </h1>
 </head>
 <body>
-    <h1>Welcome to My Portfolio</h1>
+    <h2>Welcome to My Portfolio</h2>
     <p>Hello! I'm Khin, an IT Technician based in England. This is my online portfolio.</p>
 </body>
 </html>
