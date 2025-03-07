@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <h1> Khin Myat Mon - IT Portfolio </h1>
+     Khin Myat Mon - IT Portfolio 
 </head>
 <body>
     <h2>Welcome to My Portfolio</h2>
