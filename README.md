@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-     Khin Myat Mon - IT Portfolio 
 </head>
 <body>
     <h2>Welcome to My Portfolio</h2>
